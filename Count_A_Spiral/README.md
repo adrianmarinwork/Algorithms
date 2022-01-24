@@ -9,13 +9,9 @@ Your task is to return the amount of white rectangles in a `NxN` spiral. Your fo
 For example, a spiral with size 5 should look like this:
 
 ⬜⬜⬜⬜⬜
-
 ⬛⬛⬛⬛⬜
-
 ⬜⬜⬜⬛⬜
-
 ⬜⬛⬛⬛⬜
-
 ⬜⬜⬜⬜⬜
 
 And return the value 17 because the total amount of white rectangles is 17.
